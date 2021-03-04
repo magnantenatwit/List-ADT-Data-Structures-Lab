@@ -1,0 +1,14 @@
+Detailed log in: C:\Users\magnanten\OneDrive - Wentworth Institute of Technology\School\Sophomore Year\Data Structures\Labs\DS - 4 List ADT - MagnanteN\test-logs\LinkedListDMRTests-2020-11-17-060710.log
+
+     Starting tests of class LinkedList
+
+[ 1] Starting tests of sort()
+
+[1, 1] Testing: sort()
+	configuration:
+		initial contents: ['a', 'A', 'z', 'Z']
+	expect: ['A', 'Z', 'a', 'z']
+[1, 1] Test failed
+
+
+     No tests attempted for class LinkedList
